@@ -1,6 +1,6 @@
 # acppred
 
-By Frederico 
+By Diana
 
 a tool to predict anticancer peptides
 
