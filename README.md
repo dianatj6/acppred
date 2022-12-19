@@ -7,7 +7,8 @@ a tool to predict anticancer peptides
 ## Setup
 
 ```
-Um model preditivo para peptideos positivo ou negativo para cancer, analise de peptideos encontra-se no notebook jupyter. Este programa utiliza miniforge, com versões para todas as arquiteturas Linux, bem como para MacOS.
+Um model preditivo para peptideos positivo ou negativo para cancer, analise de peptideos encontra-se
+no notebook jupyter. Este programa utiliza miniforge, com versões para todas as arquiteturas Linux, bem como para MacOS.
 Cookiecutter requer Python 3.3 ou posterior (32 bits ou 64 bits) ou Anaconda 3 4.2 ou posterior
 (32 bits ou 64 bits). Foi configurado Conda no Git Bash. Na base e o ambiente onde todos os
 pacotes são contidos (test,...). Se você estiver interessado em ver quais pacotes estão
