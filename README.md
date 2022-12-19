@@ -18,7 +18,7 @@ e um peptido tumoral. A fim de usar Random Forest foi combinar os modelos, ao se
 permite prever os dados de teste. 
 O método de ajuste é onde o aprendizado ocorre, o método de transformação e aplicado a dados
 não vistos.  
-ProtParam computou a composição de aminoácidos.  
+ProtParam computou a composição de aminoácidos.  O modelo tem uma acuracia alta
 
 A predictive model for peptides positive or negative for cancer, peptide analysis is found in
 the jupyter notebook. This program uses miniforge, with versions for all Linux architectures,
@@ -34,7 +34,7 @@ The purpose of using Random Forest was to combine the models, being flexible it 
 predict the test data.
 The fit method is where learning takes place, the transformation method is applied to data.
 not seen.
-ProtParam computed the amino acid composition.
+ProtParam computed the amino acid composition. The model has a high accuracy.
 
 
 
