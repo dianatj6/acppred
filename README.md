@@ -13,11 +13,12 @@ Cookiecutter requer Python 3.3 ou posterior (32 bits ou 64 bits) ou Anaconda 3 4
 pacotes são contidos (test,...). Se você estiver interessado em ver quais pacotes estão
 instalados basta digitar o comando conda list. 
 O aprendizado de maquinas foi realizado a partir de redes neurais que analizaram exemplos de
-treinamento, cada ponto de dados de entrada recebeu um peso, quando o numero se aprocimar a 1,
+treinamento, cada ponto de dados de entrada recebeu um peso, quando o numero se aproximar a 1,
 e um peptido tumoral. A fim de usar Random Forest foi combinar os modelos, ao ser flexivel
 permite prever os dados de teste. 
 O método de ajuste é onde o aprendizado ocorre, o método de transformação e aplicado a dados
 não vistos.  
+ProtParam computou a composição de aminoácidos.  
 
 A predictive model for peptides positive or negative for cancer, peptide analysis is found in
 the jupyter notebook. This program uses miniforge, with versions for all Linux architectures,
@@ -33,6 +34,7 @@ The purpose of using Random Forest was to combine the models, being flexible it 
 predict the test data.
 The fit method is where learning takes place, the transformation method is applied to data.
 not seen.
+ProtParam computed the amino acid composition.
 
 
 
