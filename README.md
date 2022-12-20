@@ -20,7 +20,9 @@ ProtParam computou a composição de aminoácidos.  O modelo tem uma acuracia al
 Explicando o codigo
 predictor, para supervisar o aprendizado
 estimator.fit, aprender com os dados
-transformer, para filtrar e modificar os dados
+transformer, para filtrar e modificar os dados, um transform avalio a transformação, se tinha o 
+porcentagem certo de aminoacidos (A 75%, G 25%) 
+pytest, test unitarios, procura os test
 modelo, medida de ajuste dos dados 
 __init__, argumento de palavras-chave
 fit , recebe os dados de treinamento como argumentos
